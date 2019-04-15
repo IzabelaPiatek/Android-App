@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tworzenie graficznego interfejsu</string>
+    <string name="oceny">Oceny</string>
+    <string name="liczbaocen">Liczba ocen</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="imie">Imie</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="etykietaOcena">Ocena</string>
+</resources>
